@@ -121,12 +121,7 @@ Contributions are welcome! To contribute:
 5. Commit your changes with a clear message (`git commit -m "Add X"`).
 6. Push to your branch and open a Pull Request describing the change.
 
-Ideas for contributions:
-- Support for additional date formats or locales
-- More robust emoji/Unicode handling
-- Alternative tokenizers or lemmatizers for comparison
-- Additional sample passages / test cases
-
+You can also reach out via email at rseyednozadi@gmail.com.
 ## License
 
-Not specified. Add a license of your choice (e.g., MIT) if you plan to share this project publicly.
+This project is licensed under the MIT License - see the LICENSE file for details.
